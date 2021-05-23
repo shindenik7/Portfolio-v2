@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'Nikhil.png',
+  img: 'Nikhil.png' ,
   paragraphOne: `I'm an software engineer working with web applications and web infrastructure. I have been developing since 2 years but thinking since a I was a kid`,
   paragraphTwo: `I am an Bachelors in computer science with no. of projects with technologies like ReactJS, ExpressJS, java, Spring MVC, Hibernate.`,
   paragraphThree: `I'm looking forward to explore no. of things and opportunities in the field out there.`,
